@@ -24,6 +24,7 @@ https://web.archive.org/web/20140615000000*/http://www.universalppu.com/
 https://web.archive.org/web/20141016193656/http://www.universalppu.com/?p=347
 August 11, 2014
 Source Release
+
 ------------------------------------------------------------------------------------------------------------
 Есть важное замечание, но мне не известно на сколько оно актуально к содержанию данного репозитория:
 https://web.archive.org/web/20141016193656/http://www.universalppu.com/?p=347
@@ -38,6 +39,11 @@ They are present to either pull the data bus up or down while the FPGA is being 
 It was an experiment I was never able to complete, and I populated none of them on my own Universal PPUs to no ill effect.
 
 IF YOU POPULATE BOTH RESISTORS OF ANY PAIR, YOU ARE SHORTING OUT THE POWER SUPPLY.  DON’T DO THAT.
+
+------------------------------------------------------------------------------------------------------------
+Заявлениа автора проекта (LarryLemming) после закрытия проекта
+https://forums.arcade-museum.com/threads/universal-ppu-post-mortem-any-interest-in-a-multivs.359751/
+
 ------------------------------------------------------------------------------------------------------------
 В репозиторий добавлен файл UniversalPPU1.zip
 Ссылка на файл UniversalPPU1.zip была размещена на форуме:
@@ -49,4 +55,5 @@ https://drive.google.com/uc?export=download&id=1aUYXb2pQuuyaC6Eyj6SBrCL_i7MmsYgZ
 
 Я не сравнивал содержимое репозитория и содержимое файла UniversalPPU1.zip. 
 Возможно содержимое одинаковое, возможно есть различия.
+
 ------------------------------------------------------------------------------------------------------------
