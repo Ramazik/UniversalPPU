@@ -39,3 +39,12 @@ It was an experiment I was never able to complete, and I populated none of them 
 
 IF YOU POPULATE BOTH RESISTORS OF ANY PAIR, YOU ARE SHORTING OUT THE POWER SUPPLY.  DON’T DO THAT.
 ------------------------------------------------------------------------------------------------------------
+В репозиторий добавлен файл UniversalPPU1.zip
+Ссылка на файл UniversalPPU1.zip была размещена на форуме:
+https://forums.nesdev.org/viewtopic.php?t=17111
+Прямая ссылка на UniversalPPU1.zip:
+https://drive.google.com/uc?export=download&id=1aUYXb2pQuuyaC6Eyj6SBrCL_i7MmsYgZ
+
+Я не сравнивал содержимое репозитория и содержимое файла UniversalPPU1.zip. 
+Возможно содержимое одинаковое, возможно есть различия.
+------------------------------------------------------------------------------------------------------------
