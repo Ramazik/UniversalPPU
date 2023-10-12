@@ -14,3 +14,28 @@ And that's it!  Good luck!
 
 Please note that there is no warranty nor any support offered for the contents of this archive.  
 Assembling your own Universal PPU is strictly at your own risk.
+
+
+============================================================================================================
+Источник, откуда был взят исходный проект 
+https://web.archive.org/web/20140615000000*/http://www.universalppu.com/
+
+https://web.archive.org/web/20141016193656/http://www.universalppu.com/?p=347
+August 11, 2014
+Source Release
+Автор проекта впервые опубликовал исходники после заявления о том, что он не будет продолжать проект
+------------------------------------------------------------------------------------------------------------
+Есть важное замечание, но мне не известно на сколько оно актуально к содержанию данного репозитория
+https://web.archive.org/web/20141016193656/http://www.universalppu.com/?p=347
+
+Копия текста:
+August 23, 2014
+Important note about Universal PPU
+This is a note to those wishing to build their own Universal PPU.
+
+Resistors R29, R30, R18, R31, R33, R34, R36, R37, R39, R40, R42, R43, R45, R46, R48, and R49 are shown as 0-ohm resistors in the design.
+They are present to either pull the data bus up or down while the FPGA is being initialized.  ONLY ONE OF EACH PAIR SHOULD BE POPULATED.  
+It was an experiment I was never able to complete, and I populated none of them on my own Universal PPUs to no ill effect.
+
+IF YOU POPULATE BOTH RESISTORS OF ANY PAIR, YOU ARE SHORTING OUT THE POWER SUPPLY.  DON’T DO THAT.
+------------------------------------------------------------------------------------------------------------
