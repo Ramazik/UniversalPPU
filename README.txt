@@ -42,6 +42,8 @@ IF YOU POPULATE BOTH RESISTORS OF ANY PAIR, YOU ARE SHORTING OUT THE POWER SUPPL
 В репозиторий добавлен файл UniversalPPU1.zip
 Ссылка на файл UniversalPPU1.zip была размещена на форуме:
 https://forums.nesdev.org/viewtopic.php?t=17111
+Сохранил данную страницу в archive.org в полном виде, т.к. имеющиеся копии были с испорченной разметкой
+https://web.archive.org/web/20231012185345/https://forums.nesdev.org/viewtopic.php?t=17111%2A
 Прямая ссылка на UniversalPPU1.zip:
 https://drive.google.com/uc?export=download&id=1aUYXb2pQuuyaC6Eyj6SBrCL_i7MmsYgZ
 
