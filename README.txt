@@ -19,6 +19,7 @@ Assembling your own Universal PPU is strictly at your own risk.
 ============================================================================================================
 Источник, откуда был взят исходный проект:
 https://web.archive.org/web/20140615000000*/http://www.universalppu.com/
+https://forums.arcade-museum.com/threads/project-rp2c0x-xxxx-the-universal-ppu-replacement.251095/
 
 Автор проекта впервые опубликовал исходники после заявления о том, что он не будет продолжать проект:
 https://web.archive.org/web/20141016193656/http://www.universalppu.com/?p=347
